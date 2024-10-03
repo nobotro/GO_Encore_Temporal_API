@@ -6,7 +6,7 @@ Go lang bill and fee simple project with temporal and encore framework
 - Add line item to an existing open bill
 - Close active bill
 - filter bills by status
-- Automaticaly close bills after 30 day since open
+- Automaticaly close bills after 30 day since open if not closed by manually
 
 ## Demonstration
 To run project
